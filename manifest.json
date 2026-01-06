@@ -1,0 +1,12 @@
+{
+  "name": "CareerGuru",
+  "short_name": "CareerGuru",
+  "icons": [
+    {"src": "https://via.placeholder.com/192?text=CG", "sizes": "192x192", "type": "image/png"},
+    {"src": "https://via.placeholder.com/512?text=CG", "sizes": "512x512", "type": "image/png"}
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#121212",
+  "background_color": "#121212"
+}

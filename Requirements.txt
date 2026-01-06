@@ -1,0 +1,10 @@
+flask
+requests
+pymupdf
+spacy
+scikit-learn
+numpy
+nltk
+pandas
+reportlab
+gunicorn
